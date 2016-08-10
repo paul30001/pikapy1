@@ -15,13 +15,16 @@ Note: If you are upgrading from the last version, you will have to update and/or
 
 Install from Github using pip::
 
-    ~pip install git+https://github.com/skvvv/pikapy
-    
+    pip install git+https://github.com/skvvv/pikapy
     
 If given errors try (Due to both having python2 and python3):
     
+    pip2 install git+https://github.com/skvvv/pikapy  
     
-    ~pip2 install git+https://github.com/skvvv/pikapy  
+Or if given permission errors
+
+    sudo pip2 install git+https://github.com/skvvv/pikapy  
+
     
 If you are having problems with installation, join us on https://discord.gg/2cmhB
 
