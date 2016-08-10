@@ -18,7 +18,7 @@ Install from Github using pip::
     ~pip install git+https://github.com/skvvv/pikapy
     
     
-    If given errors try (Due to both having python2 and python3):
+If given errors try (Due to both having python2 and python3):
     
     
     ~pip2 install git+https://github.com/skvvv/pikapy  
