@@ -25,12 +25,6 @@ Or if given permission errors
 
     sudo pip2 install git+https://github.com/skvvv/pikapy  
 
-Windows users, if the above doesn't work try this:
-
-    git clone https://github.com/favll/pogom.git
-    pip install -r requirements.txt
-    python runserver.py
-
 If you are having problems with installation, join us on https://discord.gg/2cmhB
 
 Use
