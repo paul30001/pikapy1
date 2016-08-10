@@ -21,9 +21,18 @@ If given errors try (Due to both having python2 and python3):
     
     pip2 install git+https://github.com/skvvv/pikapy  
     
-Or if given permission errors
+Or if given permission errors:
 
     sudo pip2 install git+https://github.com/skvvv/pikapy  
+
+If given error:
+
+    from pgoapi import PGoApi
+    ImportError: No module named pgoapi
+    
+Run:
+
+    pip install git+https://github.com/keyphact/pgoapi.git
 
 If you are having problems with installation, join us on https://discord.gg/2cmhB
 
