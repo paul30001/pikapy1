@@ -20,6 +20,8 @@ Install from Github using pip::
     
     
     ~sudo pip2 install git+https://github.com/skvvv/pikapy
+    
+If you are having problems with installation, join us on https://discord.gg/2cmhB
 
 Use
 ---
