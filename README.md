@@ -11,6 +11,8 @@ usernames.txt will give the needed output for https://github.com/favll/pogom in 
 Installation
 ------------
 
+Note: If you are upgrading from the last version, you will have to update and/or reinstall the requirements.
+
 Install from Github using pip::
 
     ~pip install git+https://github.com/skvvv/pikapy
@@ -19,9 +21,15 @@ Install from Github using pip::
     If given errors try (Due to both having python2 and python3):
     
     
-    ~sudo pip2 install git+https://github.com/skvvv/pikapy
+    ~pip2 install git+https://github.com/skvvv/pikapy  
     
 If you are having problems with installation, join us on https://discord.gg/2cmhB
+
+Windows users, if the above doesn't work try this:
+
+    git clone https://github.com/favll/pogom.git
+    pip install -r requirements.txt
+    python runserver.py
 
 Use
 ---
